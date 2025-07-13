@@ -33,7 +33,6 @@ pyjokes==0.8.3
 python-dateutil==2.9.0.post0
 pyttsx3==2.98
 pytz==2025.2
-pywin32==310
 referencing==0.36.2
 requests==2.32.4
 rpds-py==0.26.0
